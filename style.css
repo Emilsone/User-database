@@ -1,0 +1,26 @@
+#app-vue {
+  display: flex;
+  justify-content: center;
+}
+
+.users {
+  margin-top: 20px;
+  width: 700px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background: #FFEEE4;
+  text-align: center;
+}
+
+.add-search-input {
+  margin-top: 10px;
+}
+
+li {
+  margin: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
